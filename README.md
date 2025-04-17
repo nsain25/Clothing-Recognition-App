@@ -100,7 +100,6 @@ This project is a **fashion discovery application** where the **core functionali
 ---
 
 ## Technologies Used
-|------------------------------|---------------------------------------|
 | Task                         | Tool/Library                          |
 |------------------------------|---------------------------------------|
 | Image Segmentation           | U^2-Net, MODNet, MediaPipe            |
@@ -110,7 +109,7 @@ This project is a **fashion discovery application** where the **core functionali
 | Frontend App                 | React Native                          |
 | Data Storage                 | MongoDB                               |
 | Color Extraction             | K-Means, OpenCV, Colorthief.js        |
-|------------------------------|---------------------------------------|
+
 ---
 
 ## Folder Structure
