@@ -6,6 +6,7 @@ This project is a **fashion discovery application** where the **core functionali
 3. **Analyzes the image to identify key features (type, color, pattern, style).**
 4. **Searches a fashion product database for visually and semantically similar clothing items.**
 
+URL: https://colab.research.google.com/drive/1GKYyRbS1MY9eqTe6ijYB6I8Td072kW1V?usp=sharing
 ---
 
 ## **AI/ML Component (Primary Focus)**
